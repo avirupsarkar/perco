@@ -16,7 +16,7 @@ function NextArrow(props) {
 
 function HomeTwoSlider() {
   const settings = {
-    dots: false,
+  dots: false,
 	infinite: true,
 	speed: 1000,
   prevArrow:<PrevArrow/>,

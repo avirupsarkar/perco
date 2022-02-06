@@ -115,10 +115,11 @@ function BreederAdoption() {
               </div>
             </div>
           </div>
-        </div>
-        <div className="counter-area mt-70">
+          <div className="counter-area mt-70">
           <HomeCounter/>
         </div>
+        </div>
+        
       </section>
   )
 }

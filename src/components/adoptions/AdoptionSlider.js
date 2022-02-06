@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
-import Counter from '../Counter'
+import HomeCounter from '../hometwo/HomeCounter'
 import Slider from 'react-slick'
 
 function AdoptionSlider() {
@@ -113,10 +113,11 @@ function AdoptionSlider() {
               </div>
             </div>
           </div>
-        </div>
           <div className="counter-area mt-70">
-          <Counter/>
+          <HomeCounter/>
         </div>
+        </div>
+          
       </section>
   )
 }

@@ -59,7 +59,7 @@ function App() {
           <HometwoPage/>
           </ScrollToTopRoute>
        </Switch>
-           <Footer/>
+       <Footer/>
    </Router>
  
   </div>
