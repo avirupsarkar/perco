@@ -116,16 +116,16 @@ function ShopDetailsArea(){
                 <div className="shop-details-nav-wrap">
                   <ul className="nav nav-tabs" id="myTab" role="tablist">
                     <li className="nav-item" role="presentation">
-                      <a className="nav-link active" id="item-one-tab" data-toggle="tab" href="#item-one" role="tab" aria-controls="item-one" aria-selected="true"><img src="img/product/shop_nav_img01.jpg" alt="" /></a>
+                      <a className="nav-link active" id="item-one-tab" data-toggle="tab" href="/#item-one" role="tab" aria-controls="item-one" aria-selected="true"><img src="img/product/shop_nav_img01.jpg" alt="" /></a>
                     </li>
                     <li className="nav-item" role="presentation">
-                      <a className="nav-link" id="item-two-tab" data-toggle="tab" href="#item-two" role="tab" aria-controls="item-two" aria-selected="false"><img src="img/product/shop_nav_img02.jpg" alt="" /></a>
+                      <a className="nav-link" id="item-two-tab" data-toggle="tab" href="/#item-two" role="tab" aria-controls="item-two" aria-selected="false"><img src="img/product/shop_nav_img02.jpg" alt="" /></a>
                     </li>
                     <li className="nav-item" role="presentation">
-                      <a className="nav-link" id="item-three-tab" data-toggle="tab" href="#item-three" role="tab" aria-controls="item-three" aria-selected="false"><img src="img/product/shop_nav_img03.jpg" alt="" /></a>
+                      <a className="nav-link" id="item-three-tab" data-toggle="tab" href="/#item-three" role="tab" aria-controls="item-three" aria-selected="false"><img src="img/product/shop_nav_img03.jpg" alt="" /></a>
                     </li>
                     <li className="nav-item" role="presentation">
-                      <a className="nav-link" id="item-four-tab" data-toggle="tab" href="#item-four" role="tab" aria-controls="item-four" aria-selected="false"><img src="img/product/shop_nav_img04.jpg" alt="" /></a>
+                      <a className="nav-link" id="item-four-tab" data-toggle="tab" href="/#item-four" role="tab" aria-controls="item-four" aria-selected="false"><img src="img/product/shop_nav_img04.jpg" alt="" /></a>
                     </li>
                   </ul>
                 </div>
@@ -205,13 +205,13 @@ function ShopDetailsArea(){
               <div className="product-desc-wrap">
                 <ul className="nav nav-tabs" id="myTabTwo" role="tablist">
                   <li className="nav-item">
-                    <a className="nav-link active" id="details-tab" data-toggle="tab" href="#details" role="tab" aria-controls="details" aria-selected="true">Details More</a>
+                    <a className="nav-link active" id="details-tab" data-toggle="tab" href="/#details" role="tab" aria-controls="details" aria-selected="true">Details More</a>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" id="val-tab" data-toggle="tab" href="#val" role="tab" aria-controls="val" aria-selected="false">Information</a>
+                    <a className="nav-link" id="val-tab" data-toggle="tab" href="/#val" role="tab" aria-controls="val" aria-selected="false">Information</a>
                   </li>
                   <li className="nav-item">
-                    <a className="nav-link" id="review-tab" data-toggle="tab" href="#review" role="tab" aria-controls="review" aria-selected="false">Reviews (0)</a>
+                    <a className="nav-link" id="review-tab" data-toggle="tab" href="/#review" role="tab" aria-controls="review" aria-selected="false">Reviews (0)</a>
                   </li>
                 </ul>
                 <div className="tab-content" id="myTabContentTwo">
