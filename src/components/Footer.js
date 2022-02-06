@@ -38,13 +38,13 @@ function Footer() {
               <h4 className="fw-title">Our Policies</h4>
               <div className="fw-link">
                 <ul>
-                  <li><Link to="/contact">Privacy Policy</Link></li>
-                  <li><Link to="/contact">Terms and Conditions</Link></li>
-                  <li><Link to="/contact">Editorial Policy</Link></li>
-                  <li><Link to="/contact">Return Policy</Link></li>
-                  <li><Link to="/contact">IP Policy</Link></li>
-                  <li><Link to="/contact">Grievance Redressal Policy</Link></li>
-                  <li><Link to="/contact">Our Conditions</Link></li>
+                  <li><Link to="/contacts">Privacy Policy</Link></li>
+                  <li><Link to="/contacts">Terms and Conditions</Link></li>
+                  <li><Link to="/contacts">Editorial Policy</Link></li>
+                  <li><Link to="/contacts">Return Policy</Link></li>
+                  <li><Link to="/contacts">IP Policy</Link></li>
+                  <li><Link to="/contacts">Grievance Redressal Policy</Link></li>
+                  <li><Link to="/contacts">Our Conditions</Link></li>
                 </ul>
               </div>
             </div>
@@ -56,11 +56,11 @@ function Footer() {
                 <ul>
                   <li><Link to="/breeder">Our Breeder</Link></li>
                   <li><Link to="/adoption">Our Adoption</Link></li>
-                  <li><Link to="/contact">Editorial Policy</Link></li>
-                  <li><Link to="/contact">Return Policy</Link></li>
-                  <li><Link to="/contact">Grievance Policy</Link></li>
-                  <li><Link to="/contact">Redressal Policy</Link></li>
-                  <li><Link to="/contact">Contact Us</Link></li>
+                  <li><Link to="/contacts">Editorial Policy</Link></li>
+                  <li><Link to="/contacts">Return Policy</Link></li>
+                  <li><Link to="/contacts">Grievance Policy</Link></li>
+                  <li><Link to="/contacts">Redressal Policy</Link></li>
+                  <li><Link to="/contacts">Contact Us</Link></li>
                 </ul>
               </div>
             </div>
@@ -90,7 +90,7 @@ function Footer() {
         <div className="row">
           <div className="col-md-8">
             <div className="copyright-text">
-              <p>Copyright © 2022 petcoo. All Rights Reserved.</p>
+              <p>Copyright © 2022 perco. All Rights Reserved.</p>
             </div>
           </div>
           <div className="col-md-4 d-none d-md-block">

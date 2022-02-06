@@ -101,7 +101,7 @@ function BlogPost() {
               </div>
               <div className="comment-reply-box">
                 <h5 className="title">Leave a Reply</h5>
-                <form action="#" className="comment-reply-form">
+                <form className="comment-reply-form">
                   <div className="row">
                     <div className="col-md-6">
                       <div className="form-grp">
@@ -130,7 +130,7 @@ function BlogPost() {
                 <div className="widget">
                   <h4 className="sidebar-title">Search</h4>
                   <div className="sidebar-search">
-                    <form action="#">
+                    <form>
                       <input type="text" placeholder="Search ..." />
                       <button type="submit"><i className="fa fa-search" /></button>
                     </form>
@@ -190,7 +190,7 @@ function BlogPost() {
                     <h4 className="title">Subscribe Newsletter</h4>
                     <p>Sign-up For Latest News</p>
                   </div>
-                  <form action="#" className="sn-form">
+                  <form className="sn-form">
                     <input type="text" placeholder="Enter Your Email" />
                     <button className="btn">subscribe</button>
                   </form>

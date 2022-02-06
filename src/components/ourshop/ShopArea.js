@@ -10,7 +10,7 @@ function ShopArea() {
               <aside className="shop-sidebar">
                 <div className="widget">
                   <div className="sidebar-search">
-                    <form action="#">
+                    <form>
                       <input type="text" placeholder="Search ..." />
                       <button type="submit"><i className="fa fa-search" /></button>
                     </form>
@@ -63,7 +63,7 @@ function ShopArea() {
                 <div className="shop-page-meta mb-30">
                   <div className="shop-grid-menu">
                     <ul>
-                      <li className="active"><a href="#"><i className="fas fa-th" /></a></li>
+                      <li className="active"><a href="/#"><i className="fas fa-th" /></a></li>
                       <li><a href="/#"><i className="fas fa-list" /></a></li>
                     </ul>
                   </div>
@@ -71,7 +71,7 @@ function ShopArea() {
                     <p>Total Items 1-12 of 13</p>
                   </div>
                   <div className="shop-show-list">
-                    <form action="#">
+                    <form>
                       <label htmlFor="show">Show</label>
                       <select id="show" className="selected">
                         <option value>08</option>
@@ -83,7 +83,7 @@ function ShopArea() {
                     </form>
                   </div>
                   <div className="shop-short-by">
-                    <form action="#">
+                    <form>
                       <label htmlFor="shortBy">Sort By</label>
                       <select id="shortBy" className="selected">
                         <option value>Sort by latest</option>
@@ -234,7 +234,7 @@ function ShopArea() {
                 <div className="shop-page-meta">
                   <div className="shop-grid-menu">
                     <ul>
-                      <li className="active"><a href="#"><i className="fas fa-th" /></a></li>
+                      <li className="active"><a href="/#"><i className="fas fa-th" /></a></li>
                       <li><a href="/#"><i className="fas fa-list" /></a></li>
                     </ul>
                   </div>
@@ -242,7 +242,7 @@ function ShopArea() {
                     <p>Total Items 1-12 of 13</p>
                   </div>
                   <div className="shop-show-list">
-                    <form action="#">
+                    <form>
                       <label htmlFor="bottomShow">Show</label>
                       <select id="bottomShow" className="selected">
                         <option value>08</option>

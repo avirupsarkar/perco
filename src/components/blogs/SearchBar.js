@@ -5,7 +5,7 @@ function SearchBar() {
         <div className="widget">
                   <h4 className="sidebar-title">Search</h4>
                      <div className="sidebar-search">
-                        <form action="/#">
+                        <form>
                           <input type="text" placeholder="Search ..." />
                           <button type="submit"><i className="fa fa-search" /></button>          
                         </form>          

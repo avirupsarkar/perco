@@ -1,7 +1,7 @@
 /*
-  Theme Name: Petco - Pet Breeder & Adoption React js Template
+  Theme Name: Perco - Pet Breeder & Adoption React js Template
   Support: themebeyond.com
-  Description: Petco - Pet Breeder & Adoption React js Template
+  Description: Perco - Pet Breeder & Adoption React js Template
   Version: 1.0
 */
 
@@ -48,10 +48,7 @@ img, .img {
     max-width: 100%;
     height: auto;
 }
-.logo .img{
-    width: 146px;
 
-}
 .f-left {
 	float: left
 }

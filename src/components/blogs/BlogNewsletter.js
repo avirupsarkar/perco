@@ -10,7 +10,7 @@ function BlogNewsletter() {
                     <h4 className="title">Subscribe Newsletter</h4>
                     <p>Sign-up For Latest News</p>
                   </div>
-                  <form action="#" className="sn-form">
+                  <form className="sn-form">
                     <input type="text" placeholder="Enter Your Email" />
                     <button className="btn">subscribe</button>
                   </form>
